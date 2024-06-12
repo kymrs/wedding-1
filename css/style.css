@@ -88,6 +88,7 @@ body {
     position: absolute;
     animation: move-flower2 2.5s ease;
     bottom: -50px;
+    width: 100%;
 }
 
 .hero .img-1 img,
