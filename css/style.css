@@ -71,7 +71,6 @@ body {
 
 .hero {
     margin: auto;
-    min-height: 100vh;
     background: linear-gradient(rgb(5, 48, 167), rgb(21, 102, 215));
     position: relative;
     overflow: hidden;
